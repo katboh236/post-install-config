@@ -33,10 +33,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/IyQpD2G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://imgur.com/vUnro8z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Added a new role for Agents in Admin panel - "Supreme Admin" that gives permission to assign tickets to agents or teams, to close tickets, to open tickets on behalf of users, to edit and delete tickets, to edit thread items of other agents, to link tickets, to mark a ticket as Answered/Unanswered, to merge tickets, to post a ticket reply, to manage ticket referrals, to release ticket assignment, to transfer tickets between departments; permissions to assign, close, create, delete, edit, post reply and transfer tasks; ability to add/update/disable/delete canned responses. 
 </p>
 <br />
 
