@@ -74,9 +74,18 @@ Added two new users: Karen Johnson and Ken Miller in Agent Panel -> Users -> Add
 </p>
 <br />
 <p>
-<img src="https://imgur.com/fGxwoWS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/xHyPP25.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Added 
+Added a new SLA plans: Sev-A (1 hour, 24/7), Sev-B (4 hours, 24/7), Sev-C (8 hours, business hours) in order to provide a length of time in which the help desk Administrator expects tickets to be closed.
+
+</p>
+<br />
+<p>
+<img src="https://imgur.com/xHyPP25.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Added a new
+
 </p>
 <br />
