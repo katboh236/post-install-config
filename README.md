@@ -22,13 +22,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Configured Roles
-- Configured Departments
-- Configured Teams
-- Configured Agents (Workers)
-- Configired Users (Customers)
-- Configured SLAs
-- Configured Help Topics
+- Configure Roles
+- Configure Departments
+- Configure Teams
+- Configure Agents (Workers)
+- Configire Users (Customers)
+- Configure SLAs
+- Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
@@ -39,22 +39,29 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://imgur.com/vUnro8z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Added a new role for Agents in Admin panel - "Supreme Admin" that gives permission to assign tickets to agents or teams, to close tickets, to open tickets on behalf of users, to edit and delete tickets, to edit thread items of other agents, to link tickets, to mark a ticket as Answered/Unanswered, to merge tickets, to post a ticket reply, to manage ticket referrals, to release ticket assignment, to transfer tickets between departments; permissions to assign, close, create, delete, edit, post reply and transfer tasks; ability to add/update/disable/delete canned responses. 
+Added a new "Supreme Admin" role for Agents in Admin Panel -> Agents -> Roles that gives permission to assign tickets to agents or teams, to close tickets, to open tickets on behalf of users, to edit and delete tickets, to edit thread items of other agents, to link tickets, to mark a ticket as Answered/Unanswered, to merge tickets, to post a ticket reply, to manage ticket referrals, to release ticket assignment, to transfer tickets between departments; permissions to assign, close, create, delete, edit, post reply and transfer tasks; ability to add/update/disable/delete canned responses. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/vQUAkVh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Added a new " System Administrators" department in Admin Panel -> Agents -> Departments.
 </p>
 <br />
 
 <p>
+<img src="https://imgur.com/OWR0Khx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Created a new "Level II Support" team in Admin Panel -> Agents -> Teams.
+</p>
+<br />
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Created a new "Level II Support" team in Admin Panel -> Agents -> Teams.
 </p>
 <br />
