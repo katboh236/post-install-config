@@ -25,6 +25,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Roles
 - Configure Departments
 - Configure Teams
+- Allow Anyone to Create Tickets
 - Configure Agents (Workers)
 - Configire Users (Customers)
 - Configure SLAs
@@ -59,9 +60,9 @@ Created a new "Level II Support" team in Admin Panel -> Agents -> Teams.
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/CVyr0cc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Created a new "Level II Support" team in Admin Panel -> Agents -> Teams.
+Added new Agents (Jane Green and John Smith) in Admin Panel -> Agents -> Add New. Added Jane Green to "System Administrators" department, Supreme Admin panel and assigned to "Level II Support" team. Added John Smith to "Support" department with "View only" access. 
 </p>
 <br />
