@@ -66,3 +66,17 @@ Created a new "Level II Support" team in Admin Panel -> Agents -> Teams.
 Added new Agents (Jane Green and John Smith) in Admin Panel -> Agents -> Add New. Added Jane Green to "System Administrators" department, Supreme Admin panel and assigned to "Level II Support" team. Added John Smith to "Support" department with "View only" access. 
 </p>
 <br />
+<p>
+<img src="https://imgur.com/fGxwoWS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Added two new users: Karen Johnson and Ken Miller in Agent Panel -> Users -> Add New.
+</p>
+<br />
+<p>
+<img src="https://imgur.com/fGxwoWS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Added 
+</p>
+<br />
