@@ -5,11 +5,6 @@
 <h1>osTicket - Post-Install Configuration</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -43,7 +38,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 Added a new "Supreme Admin" role for Agents in Admin Panel -> Agents -> Roles that gives permission to assign tickets to agents or teams, to close tickets, to open tickets on behalf of users, to edit and delete tickets, to edit thread items of other agents, to link tickets, to mark a ticket as Answered/Unanswered, to merge tickets, to post a ticket reply, to manage ticket referrals, to release ticket assignment, to transfer tickets between departments; permissions to assign, close, create, delete, edit, post reply and transfer tasks; ability to add/update/disable/delete canned responses. 
 </p>
 <br />
-
 <p>
 <img src="https://imgur.com/vQUAkVh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -51,7 +45,6 @@ Added a new "Supreme Admin" role for Agents in Admin Panel -> Agents -> Roles th
 Added a new " System Administrators" department in Admin Panel -> Agents -> Departments.
 </p>
 <br />
-
 <p>
 <img src="https://imgur.com/OWR0Khx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -78,7 +71,6 @@ Added two new users: Karen Johnson and Ken Miller in Agent Panel -> Users -> Add
 </p>
 <p>
 Added a new SLA plans: "Sev-A (1 hour, 24/7)", "Sev-B (4 hours, 24/7)", "Sev-C (8 hours, business hours)" in Admin Panel -> Manage -> SLA in order to provide a length of time in which the help desk Administrator expects tickets to be closed.
-
 </p>
 <br />
 <p>
